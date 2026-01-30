@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 865f93b5cf159db469f12d45581c7810
+  - enabled: 1
+    path: Assets/Scenes/PVE.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/PVP.unity
+    guid: 3f1c20b1f6c537c489495e549590d3d4
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
